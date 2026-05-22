@@ -1,0 +1,8 @@
+各组件版本：
+1.git version 2.45.1.windows.1
+2.vs code version 1.117
+3.node.js version v20.18.0
+4.npm version 10.8.2
+5.MySQL Server 9.3
+
+
