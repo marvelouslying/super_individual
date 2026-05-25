@@ -24,7 +24,7 @@ function ArticleAuthorButtons({ body, description, slug, tagList, title }) {
         style={{ color: "#d00" }}
         onClick={handleClick}
       >
-        <i className="ion-trash-a"></i> Delete Article
+        <i className="ion-trash-a"></i> Delete Articlesss
       </button>{" "}
       <button className="btn btn-sm" style={{ color: "#777" }}>
         <Link
